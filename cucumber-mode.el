@@ -29,7 +29,7 @@
 ;;
 
 (defconst feature-mode-keywords
-  '("Feature" "Scenario", "Given", "Then", "When", "And"))
+  '("Feature" "Scenario" "Given" "Then" "When" "And"))
 
 (cond
  ((featurep 'font-lock)
